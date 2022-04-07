@@ -1,0 +1,38 @@
+#home {
+    background-image: linear-gradient(#9198e5,#e66465);
+    background-repeat: no-repeat;
+
+      }
+#contactme {
+    background-image: url("background-image.png");
+    background-size: cover;
+      }
+.profileImage {
+    position:relative;
+    float: left;
+      }    
+p{
+    text-align: center;        } 
+        .tableOne {
+        width: 100%;
+       table-layout: fixed;
+        border: 2px solid #808080;
+        }
+.tableTwo {
+            width: 100%;
+            table-layout: fixed;
+            border: 2px solid #808080;
+        }
+        table, th, td {
+            border: 1px solid rgb(136, 136, 132);
+            width:100%;
+            text-align: center;
+
+        }
+        form {
+            margin: 0 auto;
+            text-align: center;
+        }
+
+          
+        
